@@ -1,9 +1,9 @@
 body {
   background-color: darkslategrey;
-  text-align: center;
+  text-align: left;
   color: white;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   margin-top: 200px;
 }
 
