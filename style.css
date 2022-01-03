@@ -25,12 +25,12 @@
   width: 30ch;
   color:#CF6659;
   font-family: consolas;
-  animation: typist 22s steps(34) infinite, blink step-end 1s infinite;
+  animation: typist 22s steps(7) infinite, blink step-end 1s infinite;
 }
 @keyframes typist{
   0%{width: 0ch;}
-  47%{width: 34ch;}
-  70%{width: 34ch;}
+  47%{width: 7ch;}
+  70%{width: 7ch;}
   75%{width: 0ch;}
   100%{ width: 0ch;}
 }
