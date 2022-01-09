@@ -23,7 +23,7 @@
   white-space: nowrap;
   border-right: 2px solid black;
   width: 30ch;
-  color:#bb85df;
+  color:#88e5f0;
   font-family: consolas;
   animation: typist 22s steps(7) infinite, blink step-end 1s infinite;
 }
