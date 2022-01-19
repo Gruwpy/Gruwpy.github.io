@@ -1,4 +1,4 @@
-*{
+{
   margin:0px;
   padding:0px;
 }
@@ -25,7 +25,7 @@
   width: 30ch;
   color:#88e5f0;
   font-family: consolas;
-  animation: typist 22s steps(7) infinite, blink step-end 1s infinite;
+  animation: typist 7s steps(80) infinite, blink step-end 1s infinite;
 }
 @keyframes typist{
   0%{width: 0ch;}
