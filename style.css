@@ -6,12 +6,12 @@
 
 .ptext{
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 80px;
 }
 .showcase h1{
   font-size:30px;
-  color: #fff;
+  color: #6f707f;
   font-family: "Tempus Sans ITC";
   font-weight: bold;
   margin-bottom: 30px;
@@ -21,9 +21,10 @@
   text-transform: capitalize;
   overflow: hidden;
   white-space: nowrap;
-  border-right: 2px solid black;
+  border-right: 4px solid black;
   width: 30ch;
   color:#6f707f;
+   margin: 0 auto;
   font-family: consolas;
   animation: typist 7s steps(80) infinite, blink step-end 1s infinite;
 }
@@ -36,5 +37,5 @@
 }
 @keyframes blink{
   from, to{border-color: transparent;}
-  50%{border-color: black;}
+  50%{border-color: orange;}
 }
