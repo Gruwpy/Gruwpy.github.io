@@ -17,7 +17,7 @@
   white-space: nowrap;
   border-right: 4px solid black;
   width: 30ch;
-  color:#ffa67d;
+  color:#54BA78;
    margin: 0 auto;
   font-family: consolas;
   animation: typist 7s steps(80) infinite, blink step-end 1s infinite;
@@ -36,7 +36,7 @@
 
 
 .heart {
-  fill: red;
+  fill: #54BA78;
   position: absolute;
   top: 50%;
   right: 80px;
