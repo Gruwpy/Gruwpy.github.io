@@ -1,1 +1,1 @@
-![SnowyWeather](https://hosting.photobucket.com/images/ae89/bandos4eva/242e379f970c22bf30e1689290627058.gif)
+![SnowyWeather](https://u.cubeupload.com/Gruwpy/6676c88c9613ae304547.gif)
