@@ -1,1 +1,1 @@
-![SnowyWeather](https://u.cubeupload.com/Gruwpy/aweee.png)
+![SnowyWeather](https://u.cubeupload.com/Gruwpy/65c85663190d8d108fcb.gif)
