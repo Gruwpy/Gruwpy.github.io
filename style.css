@@ -5,7 +5,7 @@
 }
 .showcase h1{
   font-size:30px;
-  color: #6f707f;
+  color: #94a7bc;
   font-family: "Tempus Sans ITC";
   font-weight: bold;
   margin-bottom: 30px;
@@ -17,7 +17,7 @@
   white-space: nowrap;
   border-right: 4px solid black;
   width: 30ch;
-  color:#D53DD0;
+  color:#94a7bc;
    margin: 0 auto;
   font-family: consolas;
   animation: typist 7s steps(80) infinite, blink step-end 1s infinite;
@@ -36,7 +36,7 @@
 
 
 .heart {
-  fill: #D53DD0;
+  fill: #94a7bc;
   position: absolute;
   top: 50%;
   right: 80px;
